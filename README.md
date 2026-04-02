@@ -12,7 +12,7 @@ I next import my media and start working with it. I quickly added different audi
 
 <img width="1895" height="1021" alt="image" src="https://github.com/user-attachments/assets/c784c528-c3e4-408f-886a-57f197953254" />
 
-As mentioned, I was quickly able to make the simple edits I wanted, and then I continued to the process of exporting. Exporting was quick and efficient—it just asked what I wanted to name it and the export aspect ratio. Typically, in those other video editing programs, exporting can be an absolute nightmare of options because the software must support every range of use, making it extremely complicated. But not this one—the menu was simple, sleek, and easy to understand.
+As mentioned, I was quickly able to make the simple edits I wanted, and then I continued to the process of exporting. Exporting was quick and efficient—it just asked what I wanted to name it and the export aspect ratio. Typically, in those other video editing programs, exporting can be an absolute nightmare of options because the software must support every range of use, making it extremely complicated. But not this one the menu was simple, sleek, and easy to understand.
 
 <img width="857" height="475" alt="image" src="https://github.com/user-attachments/assets/898e3ad4-5ab7-44e3-ac19-f6a217c4a263" />
 
