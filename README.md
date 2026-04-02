@@ -1,3 +1,5 @@
+# Microsoft Clipchamp Interaction Journal
+
 For my journal entry I chose to interact with Microsoft Clipchamp. To give some context I am proficcient in other, possibly more proffesional grade, video editing softwares like Sony Vegas Pro. These other editing softwares have much more capability but also a much steeper learning curve. I am hoping that Microsoft Clipchamp will provide a very simple and **familiar** interface, possibly at a trade off for more advanced features as seen in other programs like Sony Vegas Pro.
 
 Upon first loading the program I am greeted with a very **sleek(Aestheticly pleasing)** interface with a home menu and a few large buttons immediatly availible and highlighted. This was exactly what I was hoping this program would provide for me to start. I dont need complicated options and settings I just want something simple. This program is so far doing a good job at being **Learnable.**
